@@ -5,7 +5,7 @@ import { AppContainer } from './styles';
 function App() {
   return (
     <AppContainer>
-      Columns will go here, add columns
+      Columns will go here, add columns, other title
     </AppContainer>
   );
 }
